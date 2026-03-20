@@ -271,7 +271,7 @@
           <mxGeometry x="620" y="1086" width="633" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nwGXn8HCcdWtY2kJRoop-123" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 60px;&quot;&gt;经纬度&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;rotation=90;direction=east;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="27.260000000000005" width="267" height="122.74" as="geometry" />
+          <mxGeometry x="1130" y="30" width="270" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

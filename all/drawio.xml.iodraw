@@ -29,7 +29,7 @@
           <mxGeometry x="180" y="360" width="978" height="780" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d1d6d2;strokeColor=#33556f;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="770" y="524.75" width="488" height="459" as="geometry" />
+          <mxGeometry x="449" y="485" width="488" height="459" as="geometry" />
         </mxCell>
         <mxCell id="21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e6eef5;strokeColor=#414650;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1414" y="1285" width="164" height="126" as="geometry" />
@@ -286,9 +286,6 @@
             <mxPoint x="471" y="833" as="sourcePoint" />
             <mxPoint x="439" y="833" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="71" value="单段边时间代价的双线性插值与沿边采样积分示意图" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=96;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#050909;fontFamily=MS YaHei;" parent="1" vertex="1">
-          <mxGeometry x="389" y="35.5" width="1971" height="97" as="geometry" />
         </mxCell>
         <mxCell id="73" value="计算流速 =基于入,μ 及四个网格点的加权平均" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=61;align=center;verticalAlign=middle;overflow=visible;fontColor=#000000;fontFamily=MS YaHei;" parent="1" vertex="1">
           <mxGeometry x="163" y="1407" width="1007" height="62" as="geometry" />

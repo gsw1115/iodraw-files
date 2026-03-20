@@ -332,6 +332,9 @@
         <mxCell id="87" value="采样点 q" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=54;align=center;verticalAlign=middle;overflow=visible;fontColor=#211d19;fontFamily=SimHei;" parent="1" vertex="1">
           <mxGeometry x="703.47" y="644.75" width="192.07" height="55.01" as="geometry" />
         </mxCell>
+        <mxCell id="nwGXn8HCcdWtY2kJRoop-115" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="88" target="nwGXn8HCcdWtY2kJRoop-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="88" value="结&lt;br&gt;纬&lt;br&gt;度" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=58;align=center;verticalAlign=middle;overflow=visible;fontColor=#191915;fontFamily=SimHei;" parent="1" vertex="1">
           <mxGeometry x="78" y="706" width="165" height="59" as="geometry" />
         </mxCell>
@@ -412,6 +415,9 @@
         </mxCell>
         <mxCell id="114" value="1" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=17;align=center;verticalAlign=middle;overflow=visible;fontColor=#151911;fontFamily=Arial Narrow;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="853" y="882" width="20" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="nwGXn8HCcdWtY2kJRoop-114" value="结&lt;br&gt;纬&lt;br&gt;度" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=58;align=center;verticalAlign=middle;overflow=visible;fontColor=#191915;fontFamily=SimHei;" vertex="1" parent="1">
+          <mxGeometry x="78" y="567" width="165" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

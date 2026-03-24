@@ -206,7 +206,7 @@
           <mxGeometry x="1168" y="207.5" width="1014" height="44" as="geometry" />
         </mxCell>
         <mxCell id="74" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Control Layer:&lt;/font&gt;&lt;font style=&quot;font-size: 38px; font-weight: normal;&quot;&gt; Event-Triggered Correction, Suppress Dead lockoning&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#151515;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1668" y="1441.5" width="1090" height="60" as="geometry" />
+          <mxGeometry x="1777" y="1444" width="1090" height="60" as="geometry" />
         </mxCell>
         <mxCell id="76" value="Trigger: CMEMS Update -&amp;gt; New Planning Cycle (~24h)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=42;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#252529;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="1223" y="251.5" width="840" height="43" as="geometry" />

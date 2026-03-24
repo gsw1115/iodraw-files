@@ -125,7 +125,7 @@
           <mxGeometry x="2239" y="1532" width="798" height="109" as="geometry" />
         </mxCell>
         <mxCell id="44" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e7e7e5;strokeColor=#898886;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="330" y="1530" width="851" height="130" as="geometry" />
+          <mxGeometry x="330" y="1530" width="870" height="130" as="geometry" />
         </mxCell>
         <mxCell id="45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6298cb;strokeColor=#21374d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="19.5" y="743" width="344" height="240" as="geometry" />
@@ -232,8 +232,8 @@
         <mxCell id="85" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;Trigger:&lt;/b&gt; Each Glider Surfacig (~4h)&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontColor=#212121;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1769" y="1398.5" width="580" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="86" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Communication -&amp;gt; Waypoints Not Downloaded, Only&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="350" y="1563.5" width="850" height="60" as="geometry" />
+        <mxCell id="86" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Communication Waypoints Not Downloaded, Only&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="375" y="1563.5" width="800" height="60" as="geometry" />
         </mxCell>
         <mxCell id="87" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Engineering Constraints: &lt;span style=&quot;font-weight: normal;&quot;&gt;Long Range + Limited&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="371" y="1528" width="760" height="60" as="geometry" />
@@ -485,6 +485,12 @@
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-189" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;B. Inner Loop: Waypoint update closed-loop triggered by surfacing communication (about 4 h)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1356.94" width="1542.75" height="54.06" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-190" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1520" as="sourcePoint" />
+            <mxPoint x="810" y="1470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

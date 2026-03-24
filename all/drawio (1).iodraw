@@ -410,7 +410,7 @@
           <mxGeometry x="2624" y="961.11" width="203" height="41" as="geometry" />
         </mxCell>
         <mxCell id="141" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;(Next Profile)&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2205" y="1131.63" width="220" height="60" as="geometry" />
+          <mxGeometry x="2214" y="1110.6100000000001" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="142" value="(Next 24 h)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=38;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#051529;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="99.5" y="895" width="181" height="44" as="geometry" />
@@ -480,7 +480,7 @@
             <mxPoint x="1560" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-180" value="&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 35px; white-space-collapse: preserve;&quot;&gt;From the Glider: Surfacing Positioning&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=35;strokeColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-180" value="&lt;span style=&quot;font-size: 35px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;From the Glider: Surfacing Positioning&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=35;strokeColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="2205" y="627.11" width="260" height="116" as="geometry" />
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-182" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 35px;&quot; face=&quot;Times New Roman&quot;&gt;Course command&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=35;strokeColor=none;align=center;" vertex="1" parent="1">

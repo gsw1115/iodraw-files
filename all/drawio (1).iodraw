@@ -462,11 +462,11 @@
         <mxCell id="162" value="Command" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=34;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#212125;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2648" y="922.86" width="155" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="163" value="To Glide:" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2238" y="1024.25" width="140" height="38" as="geometry" />
+        <mxCell id="163" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;To Glide:&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2228" y="1013.25" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="165" value="Heading" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2249.75" y="1068.99" width="128" height="38.01" as="geometry" />
+        <mxCell id="165" value="&lt;span style=&quot;color: rgb(60, 81, 180); font-family: Arial, Helvetica, sans-serif; font-size: 40px; text-align: start; white-space: pre-wrap; background-color: rgb(248, 244, 241);&quot;&gt;Course command&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2143.75" y="1057.99" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="167" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Software&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="427" y="816.5" width="150" height="60" as="geometry" />

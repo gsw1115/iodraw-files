@@ -486,8 +486,8 @@
             <mxPoint x="1560" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-180" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=35;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2200" y="444" width="120" height="60" as="geometry" />
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-180" value="&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 35px; white-space-collapse: preserve;&quot;&gt;From the Glider: Surfacing Positioning&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=35;strokeColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2200" y="444" width="350" height="116" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="merged" name="Page-1">
-    <mxGraphModel dx="5365" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2760" pageHeight="1504" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="2605" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2760" pageHeight="1504" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,9 +208,6 @@
         <mxCell id="125" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Underwater Glider&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=36;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d2511;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2451" y="636.62" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="126" value="&lt;span style=&quot;text-align: start; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;0) Environmental Information Input Module&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#212121;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="601" width="730" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="127" value="Current Forecast" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=38;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="50.5" y="838" width="280" height="39" as="geometry" />
         </mxCell>
@@ -381,7 +378,7 @@
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-195" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;1) Shore-based Equivalent Modeling and Path Planning Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="790" y="320" width="590" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-196" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 40px; font-weight: 700; text-align: start; white-space-collapse: preserve;&quot;&gt;0) Environmental Information Input Module&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-196" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 40px; font-weight: 700; text-align: start; white-space-collapse: preserve;&quot;&gt;0) Environmental Information Input Module&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="210" width="450" height="220" as="geometry" />
         </mxCell>
       </root>

@@ -471,9 +471,6 @@
         <mxCell id="157" value="From Gliar:" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=34;align=center;verticalAlign=middle;overflow=visible;fontColor=#1d2511;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2163.5" y="635.5" width="171" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="158" value="&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 24px; text-align: start; white-space: pre-wrap; background-color: rgb(248, 244, 241);&quot;&gt;Rolling Time Domain Embedding: Improving Ada&lt;/span&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 24px; text-align: start; white-space: pre-wrap;&quot;&gt;ptabili&lt;/span&gt;&lt;span style=&quot;font-family: Arial, Helvetica, sans-serif; font-size: 24px; text-align: start; white-space: pre-wrap; background-color: rgb(248, 244, 241);&quot;&gt;ty to Prediction Uncertainty&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d2511;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="877" y="693.99" width="890" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="159" value="Position Ix" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=34;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d2511;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2169.5" y="713.5" width="160" height="35" as="geometry" />
         </mxCell>

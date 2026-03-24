@@ -498,14 +498,8 @@
         <mxCell id="165" value="Heading" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2192.25" y="1069.99" width="128" height="38.01" as="geometry" />
         </mxCell>
-        <mxCell id="166" value="to Prediction" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1483.5" y="762.5" width="157" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="167" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Software&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="427" y="816.5" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="168" value="Uncertainty" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1485.25" y="797.99" width="142" height="32.02" as="geometry" />
         </mxCell>
         <mxCell id="169" value="Surfaing" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=34;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d2511;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2187.49" y="676" width="124.02" height="36" as="geometry" />

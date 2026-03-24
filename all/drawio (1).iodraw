@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="merged" name="Page-1">
-    <mxGraphModel dx="2977" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2760" pageHeight="1504" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="3473" dy="3394" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2760" pageHeight="1504" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,6 +380,11 @@
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-198" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;3) Onboard Mission Execution Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2380" y="450" width="468.62" height="156" as="geometry" />
+        </mxCell>
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7ZQLqPjrYhM-CQHaw-Q5-199">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1340" y="-30" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-199" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;4) Status Feedback and Rolling Update Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2901.5" y="463.62" width="425" height="130" as="geometry" />

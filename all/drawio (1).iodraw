@@ -7,9 +7,6 @@
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-193" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e7e7e5;strokeColor=#898886;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1243" y="1530" width="927" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9b1b1a;strokeColor=#a26f6f;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2376" y="280" width="38" height="24" as="geometry" />
-        </mxCell>
         <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bad2a1;strokeColor=#3c4530;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="638.5" y="582.62" width="581.5" height="687.38" as="geometry" />
         </mxCell>
@@ -384,7 +381,7 @@
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-197" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;2) Shore-based Waypoint Management and Communication Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1668.5" y="413.62" width="455.75" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-198" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;3) Onboard Mission Execution Module&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-198" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;3) Onboard Mission Execution Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="2491.38" y="304" width="468.62" height="156" as="geometry" />
         </mxCell>
       </root>

@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-183" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae7f0;strokeColor=#2f3c48;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="2442" y="1018.1" width="326" height="139" as="geometry" />
-        </mxCell>
         <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9d201b;strokeColor=#ce9f9d;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="2887.5" y="460" width="35" height="28" as="geometry" />
         </mxCell>
@@ -479,6 +476,9 @@
             <mxPoint x="1280" y="840" as="sourcePoint" />
             <mxPoint x="1560" y="840" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-183" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae7f0;strokeColor=#2f3c48;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1246.99" width="326" height="139" as="geometry" />
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-180" value="&lt;span style=&quot;font-size: 35px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;From the Glider: Surfacing Positioning&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=35;strokeColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="2160" y="627.11" width="260" height="116" as="geometry" />

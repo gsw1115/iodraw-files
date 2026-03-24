@@ -486,6 +486,12 @@
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-189" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 38px;&quot;&gt;&lt;b&gt;B. Inner Loop: Waypoint update closed-loop triggered by surfacing communication (about 4 h)&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1780" y="1356.94" width="1542.75" height="54.06" as="geometry" />
         </mxCell>
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-192" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.463;exitY=-0.051;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="1780" as="sourcePoint" />
+            <mxPoint x="810" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

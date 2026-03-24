@@ -31,21 +31,6 @@
         <mxCell id="13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9c1414;strokeColor=#cd9191;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1047" y="212" width="36" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9d1918;strokeColor=#dca8a7;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2105" y="190" width="39" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9a1110;strokeColor=#d79f9e;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1182" y="173" width="38" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="17" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9e1512;strokeColor=#cf8d8d;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1136" y="184" width="38" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9a1411;strokeColor=#d29393;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1229" y="163" width="38" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 1;fillColor=#9f120f;strokeColor=#cb8e8e;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1276" y="155" width="38" height="19" as="geometry" />
-        </mxCell>
         <mxCell id="37" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bad2a1;strokeColor=#3c4530;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="638.5" y="582.62" width="581.5" height="687.38" as="geometry" />
         </mxCell>

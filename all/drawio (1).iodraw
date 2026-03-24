@@ -143,7 +143,7 @@
           <mxGeometry x="2361.5" y="1015" width="327" height="192" as="geometry" />
         </mxCell>
         <mxCell id="50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dde8d2;strokeColor=#354426;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="635" y="938.76" width="505" height="130" as="geometry" />
+          <mxGeometry x="610" y="938.76" width="530" height="130" as="geometry" />
         </mxCell>
         <mxCell id="51" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8ecc3;strokeColor=#443203;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1714.5" y="969" width="415" height="116" as="geometry" />
@@ -317,7 +317,7 @@
           <mxGeometry x="648.99" y="984.26" width="402.01" height="39" as="geometry" />
         </mxCell>
         <mxCell id="107" value="Assumption: Quasi-Static" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=38;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#212119;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="649.25" y="943.25" width="387" height="40.01" as="geometry" />
+          <mxGeometry x="681.5" y="942.99" width="387" height="40.01" as="geometry" />
         </mxCell>
         <mxCell id="108" value="Receive Glider Surfacing" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=36;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292515;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1735.25" y="881.24" width="373.01" height="39.01" as="geometry" />

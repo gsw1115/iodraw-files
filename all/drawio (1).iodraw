@@ -208,9 +208,6 @@
         <mxCell id="74" value="Control Layer Event-Triggered Correction, Suppress Dead lockoning" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#151515;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1704" y="1449.5" width="1017" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="75" value="B. Inner Loop: Surfacing Event Corection Closed-Loop (~4 h)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontColor=#111939;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1702" y="1360" width="960" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="76" value="Trigger: CMEMS Update -&amp;gt; New Planning Cycle (~24h)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=42;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#252529;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="1223" y="251.5" width="840" height="43" as="geometry" />
         </mxCell>

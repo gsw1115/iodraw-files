@@ -235,7 +235,7 @@
         <mxCell id="86" value="Communication -&amp;gt; Waypoints Not Downloaded, Only" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="442" y="1576.5" width="665" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="87" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Engineering Constraints: Long Range + Limited&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="87" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Engineering Constraints: &lt;span style=&quot;font-weight: normal;&quot;&gt;Long Range + Limited&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="371" y="1528" width="760" height="60" as="geometry" />
         </mxCell>
         <mxCell id="88" value="Trigger: &lt;span style=&quot;font-weight: normal;&quot;&gt;New Forecast Released&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">

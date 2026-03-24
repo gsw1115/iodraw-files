@@ -436,9 +436,6 @@
         <mxCell id="149" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Python Path&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="407.25" y="773.75" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="150" value="Receding Horizon" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d2511;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1475.25" y="507" width="210" height="34" as="geometry" />
-        </mxCell>
         <mxCell id="151" value="Information" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#09192d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2893.5" y="638.25" width="191" height="36" as="geometry" />
         </mxCell>

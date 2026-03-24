@@ -97,14 +97,11 @@
         <mxCell id="72" value="Planning Layer: Periodic Update, Suppress Long-term Prediction Erro Accumulation" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=42;align=center;verticalAlign=middle;overflow=visible;fontColor=#211d19;fontFamily=Georgia;" parent="1" vertex="1">
           <mxGeometry x="1209" y="160" width="1242" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="73" value="A. Outer Loop: Receding Horizon Planning Closed-Loop (24 h Cycle" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=42;align=center;verticalAlign=middle;overflow=visible;fontColor=#252529;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1253" y="40" width="1014" height="44" as="geometry" />
-        </mxCell>
         <mxCell id="74" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Control Layer:&lt;/font&gt;&lt;font style=&quot;font-size: 38px; font-weight: normal;&quot;&gt; Event-Triggered Correction, Suppress Dead lockoning&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#151515;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1777" y="1444" width="1090" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="76" value="Trigger: CMEMS Update -&amp;gt; New Planning Cycle (~24h)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=42;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#252529;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="100" width="840" height="43" as="geometry" />
+        <mxCell id="76" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Trigger: &lt;/font&gt;&lt;font style=&quot;font-size: 38px; font-weight: normal;&quot;&gt;CMEMS Update&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; New Planning Cycle (~24h)&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=42;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#252529;fontFamily=Georgia;" parent="1" vertex="1">
+          <mxGeometry x="1135" y="92" width="1010" height="60" as="geometry" />
         </mxCell>
         <mxCell id="78" value="&lt;font style=&quot;font-size: 38px;&quot;&gt;Robustness Source: &lt;span style=&quot;font-weight: normal;&quot;&gt;Receding Horizon Periodl Update +&lt;/span&gt;&lt;/font&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2197" y="1527.75" width="880" height="60" as="geometry" />

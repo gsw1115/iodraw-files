@@ -384,6 +384,9 @@
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-197" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;2) Shore-based Waypoint Management and Communication Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1668.5" y="413.62" width="455.75" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-198" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1840" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

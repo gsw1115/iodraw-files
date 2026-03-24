@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram id="merged" name="Page-1">
-    <mxGraphModel dx="5076" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2760" pageHeight="1504" background="#ffffff" math="1" shadow="0">
+    <mxGraphModel dx="3857" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2760" pageHeight="1504" background="#ffffff" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -230,7 +230,7 @@
           <mxGeometry x="570" y="420" width="536" height="45.01" as="geometry" />
         </mxCell>
         <mxCell id="85" value="Trigger: Each Glider Surfacig (~4h)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontColor=#212121;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1705" y="1404.25" width="534" height="43" as="geometry" />
+          <mxGeometry x="1800" y="1406.5" width="534" height="43" as="geometry" />
         </mxCell>
         <mxCell id="86" value="Communication -&amp;gt; Waypoints Not Downloaded, Only" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="135" y="1576.5" width="665" height="34" as="geometry" />

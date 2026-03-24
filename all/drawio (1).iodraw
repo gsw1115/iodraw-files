@@ -488,14 +488,8 @@
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-175" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1196" y="863.5" as="sourcePoint" />
-            <mxPoint x="1280" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-176" value="" style="endArrow=none;html=1;rounded=0;entryX=0.428;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7ZQLqPjrYhM-CQHaw-Q5-174">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1281" y="810" as="sourcePoint" />
-            <mxPoint x="1590" y="860" as="targetPoint" />
+            <mxPoint x="1196" y="895" as="sourcePoint" />
+            <mxPoint x="1280" y="841.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

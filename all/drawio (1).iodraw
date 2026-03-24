@@ -259,8 +259,8 @@
         <mxCell id="87" value="Engineering Constraints: Long Range + Limited" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="135" y="1540" width="617" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="88" value="Trigger: New Forecast Released" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="31.5" y="1107" width="480" height="41" as="geometry" />
+        <mxCell id="88" value="Trigger: &lt;span style=&quot;font-weight: normal;&quot;&gt;New Forecast Released&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="21.5" y="1098" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="89" value="CMEMS Ocean Current Forecast+" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#050505;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="366" y="253.5" width="501" height="38" as="geometry" />
@@ -361,8 +361,8 @@
         <mxCell id="121" value="Execution: Heading" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=33;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2376.25" y="1032.75" width="300" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="122" value="Flow Field Forecast" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2929;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="30.5" y="1064.5" width="296" height="38" as="geometry" />
+        <mxCell id="122" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Flow Field Forecast&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2929;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="18.5" y="1053.5" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="123" value="Navigation Error/Envi-" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#29252d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2842.5" y="1096.5" width="294" height="38" as="geometry" />

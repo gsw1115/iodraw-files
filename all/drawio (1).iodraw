@@ -461,7 +461,7 @@
           <mxGeometry x="1830.5" y="921" width="182" height="37" as="geometry" />
         </mxCell>
         <mxCell id="153" value="CMEMS -" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d2511;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="387.25" y="728.5" width="178" height="37" as="geometry" />
+          <mxGeometry x="317.5" y="622.26" width="178" height="37" as="geometry" />
         </mxCell>
         <mxCell id="154" value="Waypoints" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=36;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292925;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1508.5" y="1089" width="156" height="42" as="geometry" />

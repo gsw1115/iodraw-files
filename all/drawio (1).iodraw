@@ -379,8 +379,8 @@
         <mxCell id="133" value="CMEMS Ocean" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=38;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="62.5" y="790.5" width="255" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="134" value="Output: Current" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#19191d;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2984.5" y="895.86" width="246" height="40" as="geometry" />
+        <mxCell id="134" value="Output: &lt;span style=&quot;font-weight: normal;&quot;&gt;Current&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#19191d;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2982.5" y="885.86" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="135" value="Function: Correct" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#292931;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2984.49" y="1059.61" width="257.02" height="38" as="geometry" />

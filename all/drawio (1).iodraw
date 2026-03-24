@@ -78,8 +78,8 @@
         </mxCell>
         <mxCell id="68" style="html=1;endArrow=classic;startArrow=none;startFill=0;rounded=0;strokeWidth=2;strokeColor=#252728;orthogonalLoop=1;jettySize=auto;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1580" y="275" as="sourcePoint" />
-            <mxPoint x="1639" y="275" as="targetPoint" />
+            <mxPoint x="2921.75" y="60" as="sourcePoint" />
+            <mxPoint x="2980.75" y="60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="69" style="html=1;endArrow=classic;startArrow=none;startFill=0;rounded=0;strokeWidth=2;strokeColor=#313032;orthogonalLoop=1;jettySize=auto;" parent="1" edge="1">
@@ -385,7 +385,7 @@
           <mxGeometry x="2380" y="450" width="468.62" height="156" as="geometry" />
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-199" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;4) Status Feedback and Rolling Update Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2902.5" y="476" width="425" height="130" as="geometry" />
+          <mxGeometry x="2901.5" y="463.62" width="425" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

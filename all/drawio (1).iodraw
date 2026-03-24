@@ -484,7 +484,7 @@
           <mxGeometry x="2244.99" y="675" width="124.02" height="36" as="geometry" />
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-174" value="&lt;span style=&quot;color: rgb(29, 37, 17); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 35px; font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Innovation&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 37, 17); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 35px; font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;Point:&lt;/span&gt;&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 35px;&quot;&gt;Rolling Time Domain Embedding: Improving Adaptability to Prediction Uncertainty&lt;/font&gt;&lt;/span&gt;&lt;font id=&quot;1&quot; data-immersive-translate-loading-id=&quot;&quot; lang=&quot;zh-CN&quot; translate=&quot;no&quot; class=&quot;notranslate immersive-translate-target-wrapper&quot;&gt;&amp;nbsp; &lt;font class=&quot;immersive-translate-loading-spinner notranslate&quot;&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="630.75" width="431" height="174.75" as="geometry" />
+          <mxGeometry x="1240" y="630.75" width="80" height="174.75" as="geometry" />
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-175" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

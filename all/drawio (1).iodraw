@@ -388,7 +388,7 @@
           <mxGeometry x="1060" y="220" width="1450" height="90" as="geometry" />
         </mxCell>
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-205" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=30.15;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="2130" y="20" width="453.5" height="103.5" as="geometry" />
+          <mxGeometry x="2130" width="530" height="123.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -110,7 +110,7 @@
           <mxGeometry x="638.5" y="582.62" width="581.5" height="687.38" as="geometry" />
         </mxCell>
         <mxCell id="38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f7d26c;strokeColor=#54421a;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="1695.5" y="584" width="456" height="648" as="geometry" />
+          <mxGeometry x="1660" y="590" width="491.5" height="642" as="geometry" />
         </mxCell>
         <mxCell id="39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c1d6e8;strokeColor=#404851;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="2350.5" y="590" width="352" height="642" as="geometry" />
@@ -234,9 +234,6 @@
         </mxCell>
         <mxCell id="80" value="- Avoid Instability and Communication Buron Caused by" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="984" y="1576" width="774" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="81" value="3) Execution Layr (Mission Execution)" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=44;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d1919;fontFamily=Georgia;" parent="1" vertex="1">
-          <mxGeometry x="2301.5" y="529" width="598" height="45" as="geometry" />
         </mxCell>
         <mxCell id="82" value="Surfacing Event Correction -&amp;gt; Simultaneously Hadle" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1945.75" y="1575.5" width="721" height="36" as="geometry" />

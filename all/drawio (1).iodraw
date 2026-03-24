@@ -233,7 +233,7 @@
           <mxGeometry x="1946" y="1538.75" width="767" height="38" as="geometry" />
         </mxCell>
         <mxCell id="79" value="2) Operation and Communication Layer" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=39;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d1919;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1636.5" y="499.5" width="625" height="44" as="geometry" />
+          <mxGeometry x="1618" y="398" width="625" height="44" as="geometry" />
         </mxCell>
         <mxCell id="80" value="- Avoid Instability and Communication Buron Caused by" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=29;align=center;verticalAlign=middle;overflow=visible;fontColor=#41413d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="984" y="1576" width="774" height="35" as="geometry" />
@@ -374,7 +374,7 @@
           <mxGeometry x="2378.5" y="655" width="296" height="37" as="geometry" />
         </mxCell>
         <mxCell id="126" value="&lt;span style=&quot;text-align: start; white-space: pre-wrap;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 40px;&quot; face=&quot;Times New Roman&quot;&gt;0) Environmental Information Input Module&lt;/font&gt;&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#212121;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="595" width="730" height="60" as="geometry" />
+          <mxGeometry x="-160" y="601" width="730" height="60" as="geometry" />
         </mxCell>
         <mxCell id="127" value="Current Forecast" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=38;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#2d2d2d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="50.5" y="838" width="280" height="39" as="geometry" />

@@ -381,8 +381,8 @@
         <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-196" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 40px; font-weight: 700; text-align: start; white-space-collapse: preserve;&quot;&gt;0) Environmental Information Input Module&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="26" y="580" width="345" height="152.96" as="geometry" />
         </mxCell>
-        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-197" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;2) Shore-based Waypoint Management and Communication Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="191.25" y="110" width="418.75" height="180" as="geometry" />
+        <mxCell id="7ZQLqPjrYhM-CQHaw-Q5-197" value="&lt;span style=&quot;text-align: start; white-space-collapse: preserve;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;font-size: 40px;&quot;&gt;2) Shore-based Waypoint Management and Communication Module&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1654.25" y="380" width="418.75" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -382,8 +382,8 @@
         <mxCell id="128" value="Error Accumulation" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=30;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#21211d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1932.75" y="1492" width="291" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="129" value="Output: Next 24h" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d1d1d;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="31.5" y="1020.5" width="269" height="40" as="geometry" />
+        <mxCell id="129" value="Output: &lt;span style=&quot;font-weight: normal;&quot;&gt;Next 24h&lt;/span&gt;" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=37;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#1d1d1d;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="26.5" y="1010.5" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="130" value="ironmental Perturbation" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=35;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#29292d;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2844.5" y="1134.5" width="298" height="36" as="geometry" />

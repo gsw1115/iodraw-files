@@ -1,0 +1,124 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram id="tech-roadmap-001" name="技术路线图">
+    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3600" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="基于被动浮力补偿的长续航水下滑翔机密度变化匹配研究技术路线图" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=28;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F172A;" parent="1" vertex="1">
+          <mxGeometry x="40" y="24" width="2000" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="总体目标：针对浅海密度跃层引发的额外能耗问题，构建主被动混合浮力调节方案，提升长续航水下滑翔机的全潜深环境适应性、节能效果与续航能力。" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#F8FAFC;strokeColor=#CBD5E1;strokeWidth=1.5;fontSize=17;fontFamily=Microsoft YaHei;fontColor=#334155;spacing=16;" parent="1" vertex="1">
+          <mxGeometry x="40" y="78" width="3520" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="method1" value="文献分析" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#E0F2FE;strokeColor=#38BDF8;strokeWidth=1.5;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F172A;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="40" y="176" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="method2" value="理论建模" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#DBEAFE;strokeColor=#60A5FA;strokeWidth=1.5;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F172A;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="220" y="176" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="method3" value="参数优化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#DCFCE7;strokeColor=#4ADE80;strokeWidth=1.5;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F172A;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="400" y="176" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="method4" value="数值仿真" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#FEF3C7;strokeColor=#F59E0B;strokeWidth=1.5;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F172A;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="580" y="176" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="method5" value="实验验证" style="rounded=1;whiteSpace=wrap;html=1;arcSize=20;fillColor=#FCE7F3;strokeColor=#F472B6;strokeWidth=1.5;fontSize=15;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F172A;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="760" y="176" width="160" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="s1bg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#F8FAFC;strokeColor=#94A3B8;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="40" y="250" width="500" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="s1h" value="阶段 1  问题识别与目标定义" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#475569;strokeColor=#334155;strokeWidth=1.5;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="70" y="278" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s1t" value="1. 识别长航程滑翔机能耗瓶颈&#xa;2. 分析密度跃层与壳体压缩耦合作用&#xa;3. 明确研究目标、评价指标与约束条件&#xa;4. 聚焦浅海 0-300 m 密度变化匹配问题" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#CBD5E1;strokeWidth=1.2;fontSize=16;fontFamily=Microsoft YaHei;fontColor=#1E293B;align=left;spacingLeft=16;spacingTop=16;" parent="1" vertex="1">
+          <mxGeometry x="70" y="370" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="s1o" value="阶段输出&#xa;问题定义 + 评价指标体系" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FEF3C7;strokeColor=#F59E0B;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#92400E;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1060" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s2bg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#EFF6FF;strokeColor=#60A5FA;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="620" y="250" width="500" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="s2h" value="阶段 2  基准模型构建" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#2563EB;strokeColor=#1D4ED8;strokeWidth=1.5;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="650" y="278" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s2t" value="1. 建立六自由度动力学与运动学模型&#xa;2. 构建海水密度剖面与壳体压缩模型&#xa;3. 建立主动浮力、姿态控制与电子设备能耗模型&#xa;4. 形成纯主动系统的整机性能基准" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#BFDBFE;strokeWidth=1.2;fontSize=16;fontFamily=Microsoft YaHei;fontColor=#1E293B;align=left;spacingLeft=16;spacingTop=16;" parent="1" vertex="1">
+          <mxGeometry x="650" y="370" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="s2o" value="阶段输出&#xa;综合动力学与基准能耗模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#DBEAFE;strokeColor=#60A5FA;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#1D4ED8;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="650" y="1060" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s3bg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#ECFEFF;strokeColor=#22D3EE;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1200" y="250" width="500" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="s3h" value="阶段 3  混合浮力系统设计" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#0891B2;strokeColor=#0E7490;strokeWidth=1.5;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="278" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s3t" value="1. 建立弹簧-活塞式被动补偿装置数学模型&#xa;2. 计入弹簧非线性、活塞摩擦等非理想因素&#xa;3. 构建主被动混合浮力调节系统模型&#xa;4. 设计主/被动协调控制策略与泵介入逻辑" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#A5F3FC;strokeWidth=1.2;fontSize=16;fontFamily=Microsoft YaHei;fontColor=#1E293B;align=left;spacingLeft=16;spacingTop=16;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="370" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="s3o" value="阶段输出&#xa;混合浮力系统模型" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#CCFBF1;strokeColor=#14B8A6;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F766E;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1230" y="1060" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s4bg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#F0FDF4;strokeColor=#4ADE80;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="250" width="500" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="s4h" value="阶段 4  参数优化与控制求解" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#16A34A;strokeColor=#15803D;strokeWidth=1.5;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="278" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s4t" value="1. 开展全局敏感度分析识别关键参数&#xa;2. 优化弹簧刚度、预紧力、活塞面积等设计变量&#xa;3. 以补偿效果最优/能耗最低为目标进行求解&#xa;4. 确定面向浅海密度跃层的最优参数组合" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#BBF7D0;strokeWidth=1.2;fontSize=16;fontFamily=Microsoft YaHei;fontColor=#1E293B;align=left;spacingLeft=16;spacingTop=16;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="370" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="s4o" value="阶段输出&#xa;最优参数与协调控制策略" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#DCFCE7;strokeColor=#22C55E;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#166534;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="1060" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s5bg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFF7ED;strokeColor=#FB923C;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="250" width="500" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="s5h" value="阶段 5  仿真评估与性能对比" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#EA580C;strokeColor=#C2410C;strokeWidth=1.5;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="2390" y="278" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s5t" value="1. 搭建整机耦合仿真平台&#xa;2. 开展纯主动系统/混合系统对比仿真&#xa;3. 评估穿越密度跃层时的节能效果&#xa;4. 分析姿态稳定性、速度保持能力与航程增益" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#FED7AA;strokeWidth=1.2;fontSize=16;fontFamily=Microsoft YaHei;fontColor=#1E293B;align=left;spacingLeft=16;spacingTop=16;" parent="1" vertex="1">
+          <mxGeometry x="2390" y="370" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="s5o" value="阶段输出&#xa;节能增益与运动性能评估结果" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFEDD5;strokeColor=#FB923C;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#9A3412;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="2390" y="1060" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="s6bg" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#FFF1F2;strokeColor=#FB7185;strokeWidth=1.5;" parent="1" vertex="1">
+          <mxGeometry x="2940" y="250" width="500" height="980" as="geometry" />
+        </mxCell>
+        <mxCell id="s6h" value="阶段 6  样机研制与海试验证" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#E11D48;strokeColor=#BE123C;strokeWidth=1.5;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#FFFFFF;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="2970" y="278" width="440" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="s6t" value="1. 完成被动补偿装置工程设计、加工与平台集成&#xa;2. 开展仿海洋环境实验与真实海域海试&#xa;3. 采集运动状态、泵工作与能耗数据&#xa;4. 对比实测数据、仿真结果与历史基准" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFFFFF;strokeColor=#FDA4AF;strokeWidth=1.2;fontSize=16;fontFamily=Microsoft YaHei;fontColor=#1E293B;align=left;spacingLeft=16;spacingTop=16;" parent="1" vertex="1">
+          <mxGeometry x="2970" y="370" width="440" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="s6o" value="阶段输出&#xa;节能效果与可靠性验证" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;fillColor=#FFE4E6;strokeColor=#FB7185;strokeWidth=1.5;fontSize=17;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#9F1239;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="2970" y="1060" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="result" value="预期研究成果：主被动混合浮力调节系统方案｜综合动力学与能耗模型｜优化参数与协调控制策略｜样机与海试验证数据｜SCI 论文与硕士学位论文" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;fillColor=#F8FAFC;strokeColor=#64748B;strokeWidth=1.8;fontSize=18;fontStyle=1;fontFamily=Microsoft YaHei;fontColor=#0F172A;align=center;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1280" width="3400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#64748B;endArrow=block;endFill=1;" parent="1" source="s1o" target="s2h" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#64748B;endArrow=block;endFill=1;" parent="1" source="s2o" target="s3h" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#64748B;endArrow=block;endFill=1;" parent="1" source="s3o" target="s4h" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#64748B;endArrow=block;endFill=1;" parent="1" source="s4o" target="s5h" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#64748B;endArrow=block;endFill=1;" parent="1" source="s5o" target="s6h" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6r" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;strokeColor=#64748B;endArrow=block;endFill=1;" parent="1" source="s6o" target="result" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

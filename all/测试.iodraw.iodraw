@@ -535,7 +535,7 @@
           <mxGeometry x="185" y="690" width="460" height="125" as="geometry" />
         </mxCell>
         <mxCell id="cTS2Bc4Euz190X_VzW5h-158" value="c&lt;sub&gt;ij&lt;/sub&gt; = Σ&lt;sub&gt;m=1&lt;/sub&gt;&lt;sup&gt;S&lt;/sup&gt; Δt&lt;sub&gt;ij&lt;/sub&gt;&lt;sup&gt;(m)&lt;/sup&gt; = Σ&lt;sub&gt;m=1&lt;/sub&gt;&lt;sup&gt;S&lt;/sup&gt; (d&lt;sub&gt;ij&lt;/sub&gt;/S) / v&lt;sub&gt;∥,max&lt;/sub&gt;&lt;sup&gt;(m)&lt;/sup&gt;&lt;br&gt;&lt;br&gt;where c&lt;sub&gt;ij&lt;/sub&gt; is the travel-time cost of edge i → j." style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;strokeColor=#2E7D32;strokeWidth=2;fontFamily=Times New Roman;fontSize=16;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="820" y="690" width="650" height="125" as="geometry" />
+          <mxGeometry x="815" y="740" width="650" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -58,11 +58,8 @@
         <mxCell id="fw78oGaPLIdzIMdFsg9L-55" value="" style="shape=ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="96" y="594" width="190" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="fw78oGaPLIdzIMdFsg9L-56" value="D" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=64;fontStyle=1;fontColor=#944D93;spacing=0;" vertex="1" parent="1">
+        <mxCell id="fw78oGaPLIdzIMdFsg9L-56" value="&lt;font style=&quot;font-size: 75px;&quot;&gt;D&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=64;fontStyle=1;fontColor=#944D93;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="121" y="619" width="140" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="fw78oGaPLIdzIMdFsg9L-57" value="Peripheral node D" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=18;fontStyle=1;fontColor=#4B5861;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="101" y="711" width="180" height="34" as="geometry" />
         </mxCell>
         <mxCell id="fw78oGaPLIdzIMdFsg9L-58" value="" style="shape=ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#4B5861;strokeColor=#4B5861;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="633" y="565" width="248" height="248" as="geometry" />
@@ -75,9 +72,6 @@
         </mxCell>
         <mxCell id="fw78oGaPLIdzIMdFsg9L-61" value="C" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=64;fontStyle=1;fontColor=#EF9024;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="687" y="619" width="140" height="92" as="geometry" />
-        </mxCell>
-        <mxCell id="fw78oGaPLIdzIMdFsg9L-62" value="Peripheral node C" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;fontFamily=Times New Roman;fontSize=18;fontStyle=1;fontColor=#4B5861;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="667" y="711" width="180" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

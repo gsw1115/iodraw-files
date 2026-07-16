@@ -18,17 +18,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fw78oGaPLIdzIMdFsg9L-34" value="" style="edgeStyle=none;curved=1;rounded=1;html=1;strokeColor=#4B5861;strokeWidth=3;startArrow=none;endArrow=none;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="596" y="164" as="sourcePoint" />
-            <mxPoint x="821" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="210" />
-              <mxPoint x="805" y="370" />
-              <mxPoint x="814" y="525" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="fw78oGaPLIdzIMdFsg9L-35" value="" style="edgeStyle=none;curved=1;rounded=1;html=1;strokeColor=#4B5861;strokeWidth=3;startArrow=none;endArrow=none;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="785" as="sourcePoint" />

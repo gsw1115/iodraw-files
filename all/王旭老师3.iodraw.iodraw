@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5HqSUERzATd3i8zwnFVZ-50" value="" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#F7F9FC;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry width="1600" height="900" as="geometry" />
-        </mxCell>
         <mxCell id="5HqSUERzATd3i8zwnFVZ-51" value="" style="rounded=1;arcSize=6;whiteSpace=wrap;html=1;fillColor=#CCD8E5;strokeColor=none;opacity=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="223" width="488" height="663" as="geometry" />
         </mxCell>
@@ -171,7 +168,7 @@
         <mxCell id="5HqSUERzATd3i8zwnFVZ-92" value="✦" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#0F9D8A;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="623" y="446" width="20" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="5HqSUERzATd3i8zwnFVZ-93" value="&lt;div style=&quot;line-height:1.55;&quot;&gt;&lt;b&gt;全链条高频沟通：&lt;/b&gt;将用户联络融入业务闭环。既抓契约落地，也重日常联系与持续服务保障。&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontColor=#5E6878;spacing=0;" vertex="1" parent="1">
+        <mxCell id="5HqSUERzATd3i8zwnFVZ-93" value="&lt;div style=&quot;line-height:1.55;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;b&gt;全链条高频沟通：&lt;/b&gt;将用户联络融入业务闭环。既抓契约落地，也重日常联系与持续服务保障。&lt;/font&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontColor=#5E6878;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="651" y="441" width="382" height="125" as="geometry" />
         </mxCell>
         <mxCell id="5HqSUERzATd3i8zwnFVZ-94" value="✦" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#0F9D8A;spacing=0;" vertex="1" parent="1">

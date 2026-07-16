@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="8_ZIqgOyGC6JcC48USY_">
-    <mxGraphModel dx="3565" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,16 +10,16 @@
         <mxCell id="ze011rdibnDCJlQOIY5p-2" value="" style="rounded=1;arcSize=8;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#DCE2E9;strokeWidth=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="845" y="120" width="690" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="ze011rdibnDCJlQOIY5p-3" value="" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#09958A;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ze011rdibnDCJlQOIY5p-3" value="" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#09958A;strokeColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="75" y="215" width="8" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ze011rdibnDCJlQOIY5p-4" value="高效对接：构建主动争取矩阵" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=30;fontStyle=1;fontColor=#10182B;spacing=0;" vertex="1" parent="1">
+        <mxCell id="ze011rdibnDCJlQOIY5p-4" value="高效对接：构建主动争取矩阵" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#10182B;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="205" width="680" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ze011rdibnDCJlQOIY5p-5" value="发挥枢纽作用，贯通多方需求，将战略重点转化为具体项目" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontColor=#687387;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="105" y="285" width="665" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="ze011rdibnDCJlQOIY5p-6" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#149D92;strokeWidth=2;startArrow=none;endArrow=none;" edge="1" parent="1">
+        <mxCell id="ze011rdibnDCJlQOIY5p-6" value="" style="edgeStyle=none;rounded=0;html=1;strokeColor=#149D92;strokeWidth=2;startArrow=none;endArrow=none;fontSize=16;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="365" as="sourcePoint" />
             <mxPoint x="120" y="665" as="targetPoint" />
@@ -151,7 +151,7 @@
         <mxCell id="ze011rdibnDCJlQOIY5p-43" value="1" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#F4F5F9;strokeColor=#09958A;strokeWidth=2;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#09958A;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="102" y="350" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ze011rdibnDCJlQOIY5p-44" value="高站位 · 瞻前沿" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=18;fontStyle=1;fontColor=#172035;spacing=0;" vertex="1" parent="1">
+        <mxCell id="ze011rdibnDCJlQOIY5p-44" value="高站位 · 瞻前沿" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#172035;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="342" width="280" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ze011rdibnDCJlQOIY5p-45" value="紧密跟踪国家战略规划与行业前沿需求，确保技术方向与整体发展目标协调一致。" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontColor=#626D81;spacing=0;spacingTop=2;" vertex="1" parent="1">
@@ -160,7 +160,7 @@
         <mxCell id="ze011rdibnDCJlQOIY5p-46" value="2" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#F4F5F9;strokeColor=#09958A;strokeWidth=2;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#09958A;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="102" y="495" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ze011rdibnDCJlQOIY5p-47" value="专业度 · 谋方向" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=18;fontStyle=1;fontColor=#172035;spacing=0;" vertex="1" parent="1">
+        <mxCell id="ze011rdibnDCJlQOIY5p-47" value="专业度 · 谋方向" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#172035;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="487" width="350" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ze011rdibnDCJlQOIY5p-48" value="结合自身技术基础提出前瞻性建议，精准提炼发展方向与关键攻坚任务，由被动承接转向专业引领。" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontColor=#626D81;spacing=0;spacingTop=2;" vertex="1" parent="1">
@@ -169,7 +169,7 @@
         <mxCell id="ze011rdibnDCJlQOIY5p-49" value="3" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#F4F5F9;strokeColor=#09958A;strokeWidth=2;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#09958A;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="102" y="640" width="36" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="ze011rdibnDCJlQOIY5p-50" value="重落地 · 强对接" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=18;fontStyle=1;fontColor=#172035;spacing=0;" vertex="1" parent="1">
+        <mxCell id="ze011rdibnDCJlQOIY5p-50" value="重落地 · 强对接" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=SimSun;fontSize=16;fontStyle=1;fontColor=#172035;spacing=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="632" width="420" height="32" as="geometry" />
         </mxCell>
         <mxCell id="ze011rdibnDCJlQOIY5p-51" value="主动链接外部需求，强化全周期信息跟踪、前置沟通与组织策划，提高项目争取和实施的有效性。" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontColor=#626D81;spacing=0;spacingTop=2;" vertex="1" parent="1">

@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="7zaW-mGzR9lahY6c8Xok">
-    <mxGraphModel dx="1501" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,7 +47,7 @@
           <mxGeometry x="165" y="640" width="420" height="32" as="geometry" />
         </mxCell>
         <mxCell id="Zsp_s10xPRqTPurUnKxf-104" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;主动链接外部需求，强化全周期信息跟踪、前置沟通与组织策划，提高项目争取和实施的有效性。&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=top;fontFamily=SimSun;fontSize=16;fontColor=#626D81;spacing=0;spacingTop=2;" parent="1" vertex="1">
-          <mxGeometry x="165" y="672" width="610" height="85" as="geometry" />
+          <mxGeometry x="165" y="690" width="610" height="85" as="geometry" />
         </mxCell>
         <mxCell id="KggnLWzYxWVE4GtJi7LW-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="845" y="170" width="645" height="610" as="geometry" />

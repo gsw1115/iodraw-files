@@ -1,12 +1,9 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="dBfovT6qsGnr3ju-rLwm">
-    <mxGraphModel dx="2852" dy="1566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2037" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fw78oGaPLIdzIMdFsg9L-1" value="" style="shape=rectangle;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry width="900" height="900" as="geometry" />
-        </mxCell>
         <mxCell id="fw78oGaPLIdzIMdFsg9L-2" value="" style="edgeStyle=none;curved=1;rounded=1;html=1;strokeColor=#4B5962;strokeWidth=3;startArrow=none;endArrow=none;exitX=0.12;exitY=0.58;exitPerimeter=1;entryX=0.32;entryY=0.04;entryPerimeter=1;" edge="1" parent="1" source="fw78oGaPLIdzIMdFsg9L-12" target="fw78oGaPLIdzIMdFsg9L-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
